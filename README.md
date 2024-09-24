@@ -5,4 +5,4 @@ Este código é uma prova de conceito focada em aplicar media queries em uma pá
 
 -Código HTML
 
-![image](https://github.com/user-attachments/assets/15161d4b-60da-4378-99f1-808535296f66)
+![image])
